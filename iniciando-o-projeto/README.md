@@ -15,3 +15,11 @@
 - [x] Teste de função
 - [x] Testando um caso de erro
 - [x] Teste da função isUpperCase
+
+----
+
+## Aprendizado
+
+- Configuração do projeto para testes;
+- Definição das ferramentas Karma e Jasmine;
+- Criação de testes unitários de funções.
