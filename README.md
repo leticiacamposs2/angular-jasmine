@@ -1,5 +1,5 @@
 # Angular e Jasmine: Testes de unidade para sua aplicação
-Repositório das aulas do curso angular e jasmine: testes de unidade para sua aplicação da alura
+Repositório das aulas do curso [angular e jasmine: testes de unidade para sua aplicação](https://www.alura.com.br/curso-online-angular-unit-test) da alura
 
 ----
 
@@ -21,5 +21,3 @@ Repositório das aulas do curso angular e jasmine: testes de unidade para sua ap
 - [ ] Testes com requisições HTTP
 - [ ] Testes de componentes
 - [ ] Testes de formulários
-
-Curso: [Angular e Jasmine: Testes de unidade para sua aplicação](https://www.alura.com.br/curso-online-angular-unit-test)
