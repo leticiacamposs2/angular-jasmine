@@ -25,6 +25,7 @@ A nossa aplicação front end é composta (além dos serviços) dos componentes 
 - Quando o retorno do meu spyOn é um `Observable` eu uso a minha função `of`
 - A equipe do angular recomenda a montagem de objetos de componentes no TestBed utilizando o payOnModel, porque dependendo do componente a instanciação pode ser um pouco demorada ele é feito no próprio Angular de uma maneira assincrona, sendo assim é recomendado separar a criação do componente de tela em 2 beforeEach um assincriono e outro sincrono.
 - O `compileComponents` por padrão é assincrono, então para fazer com que ele se torne sincrono ou seja após compilar os componentes executar os testes, usa a função async dentro do beforeEach
+- Para testar o comportamento de direcionamento de rota, foi utilizado a funão `spyOn()` para avaliar se o componente chama a rota [''] 
 
 ----
 
