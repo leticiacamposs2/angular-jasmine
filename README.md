@@ -19,5 +19,5 @@ Repositório das aulas do curso [angular e jasmine: testes de unidade para sua a
 - [x] [Iniciando o projeto](./iniciando-o-projeto.md)
 - [x] [Testes de serviço](./testes-de-servico.md)
 - [x] [Testes com requisições HTTP](./testes-requisicoes-http.md)
-- [ ] Testes de componentes
+- [x] [Testes de componentes](./testes-de-componentes.md)
 - [ ] Testes de formulários
