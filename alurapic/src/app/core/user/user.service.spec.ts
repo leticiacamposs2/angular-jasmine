@@ -1,5 +1,4 @@
 import { UserService } from './user.service';
-import { TokenService } from '../token/token.service';
 import { TestBed } from '@angular/core/testing';
 
 describe('Serviço UserService', () => {
